@@ -231,5 +231,3 @@ $products = $stmt->fetchAll();
 </script>
 </body>
 </html>
-<?php
-?>
